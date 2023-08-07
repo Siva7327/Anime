@@ -1,0 +1,47 @@
+body{
+    background-image: url(jp.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    color:rgb(255, 219, 14);
+}
+u{
+    color:rgb(144, 144, 144);
+}
+
+#img1{
+    margin-top: 40px;
+    margin-left: 200px;
+}
+#img1 h2{
+    margin-top: 40px;
+    margin-left: 90px;
+}
+#img2{
+    margin-top: -340px;
+    margin-left: 300px;
+    
+}
+#img3{
+    margin-top: -340px;
+    margin-left: 600px;
+    
+}
+#img4{
+    margin-top: -340px;
+    margin-left: 900px;
+    
+}
+#img5{
+    margin-top: 60px;
+    margin-left: 500px;
+  
+}
+#img5 h2{
+    margin-top: 40px;
+    margin-left: 180px;
+}
+
+#aud{
+    margin-top: 60px;
+    margin-left: 580px;
+}
